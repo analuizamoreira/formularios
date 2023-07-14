@@ -1,0 +1,9 @@
+#busca input{
+    border-radius: 20px;
+    -webkit-box-shadow: 12px 10px 34px -1px rgba(181,58,181,1);
+    -moz-box-shadow: 12px 10px 34px -1px rgba(181,58,181,1);
+    box-shadow: 12px 10px 34px -1px rgba(181,58,181,1);
+    height: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
